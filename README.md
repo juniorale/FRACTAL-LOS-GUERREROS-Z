@@ -1,5 +1,5 @@
 # FRACTAL-LOS-GUERREROS-Z
-Proyecto del colegio Frantal
+Proyecto del colegio Fractal
 
 *Contiene el modelo de base de datos Fractal y el archivo png* 
 ## Documentación de la Base de Datos
