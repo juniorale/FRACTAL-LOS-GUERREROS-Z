@@ -1,4 +1,4 @@
-# FRALTAL-LOS-GERREROS-Z
+# FRACTAL-LOS-GUERREROS-Z
 Proyecto del colegio Frantal
 
 *Contiene el modelo de base de datos Fractal y el archivo png* 
