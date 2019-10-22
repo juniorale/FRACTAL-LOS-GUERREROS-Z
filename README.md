@@ -13,3 +13,6 @@ Proyecto del colegio Fractal
     -Compresión del problema 
     -Desarrollo del Modelo BD
     -Colaboración del grupo
+3. Script de BD-Fractal esta conformado por las siguintes carpetas: 
+    -Schema script de BDFRACTAL
+    -Data script de Registro
