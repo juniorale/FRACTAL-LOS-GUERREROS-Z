@@ -16,3 +16,5 @@ Proyecto del colegio Fractal
 3. Script de BD-Fractal esta conformado por las siguintes carpetas: 
     -Schema script de BDFRACTAL
     -Data script de Registro
+4. Registros de datos en las tablas
+
